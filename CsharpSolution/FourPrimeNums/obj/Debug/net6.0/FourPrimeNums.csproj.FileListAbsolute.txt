@@ -1,0 +1,15 @@
+/Users/hank/work/assignmet exercise 2/CsharpSolution/FourPrimeNums/bin/Debug/net6.0/FourPrimeNums
+/Users/hank/work/assignmet exercise 2/CsharpSolution/FourPrimeNums/bin/Debug/net6.0/FourPrimeNums.deps.json
+/Users/hank/work/assignmet exercise 2/CsharpSolution/FourPrimeNums/bin/Debug/net6.0/FourPrimeNums.runtimeconfig.json
+/Users/hank/work/assignmet exercise 2/CsharpSolution/FourPrimeNums/bin/Debug/net6.0/FourPrimeNums.dll
+/Users/hank/work/assignmet exercise 2/CsharpSolution/FourPrimeNums/bin/Debug/net6.0/ref/FourPrimeNums.dll
+/Users/hank/work/assignmet exercise 2/CsharpSolution/FourPrimeNums/bin/Debug/net6.0/FourPrimeNums.pdb
+/Users/hank/work/assignmet exercise 2/CsharpSolution/FourPrimeNums/obj/Debug/net6.0/FourPrimeNums.csproj.AssemblyReference.cache
+/Users/hank/work/assignmet exercise 2/CsharpSolution/FourPrimeNums/obj/Debug/net6.0/FourPrimeNums.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hank/work/assignmet exercise 2/CsharpSolution/FourPrimeNums/obj/Debug/net6.0/FourPrimeNums.AssemblyInfoInputs.cache
+/Users/hank/work/assignmet exercise 2/CsharpSolution/FourPrimeNums/obj/Debug/net6.0/FourPrimeNums.AssemblyInfo.cs
+/Users/hank/work/assignmet exercise 2/CsharpSolution/FourPrimeNums/obj/Debug/net6.0/FourPrimeNums.csproj.CoreCompileInputs.cache
+/Users/hank/work/assignmet exercise 2/CsharpSolution/FourPrimeNums/obj/Debug/net6.0/FourPrimeNums.dll
+/Users/hank/work/assignmet exercise 2/CsharpSolution/FourPrimeNums/obj/Debug/net6.0/ref/FourPrimeNums.dll
+/Users/hank/work/assignmet exercise 2/CsharpSolution/FourPrimeNums/obj/Debug/net6.0/FourPrimeNums.pdb
+/Users/hank/work/assignmet exercise 2/CsharpSolution/FourPrimeNums/obj/Debug/net6.0/FourPrimeNums.genruntimeconfig.cache
